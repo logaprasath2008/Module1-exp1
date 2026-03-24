@@ -10,6 +10,13 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 
+men_stepped_on_the_moon = input("Enter a string: ")
+
+print(men_stepped_on_the_moon)
+
 ## Output
+
+<img width="412" height="186" alt="image" src="https://github.com/user-attachments/assets/52fb484d-3583-4e4b-bf64-2f7eec77aedc" />
+
 
 ## Result
